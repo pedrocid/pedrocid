@@ -1,6 +1,6 @@
 # Hi, I'm Pedro
 
-**Barcelona, Spain** | **Senior iOS Engineer @ Ocado Technology** | **MCP Enthusiast**
+**Barcelona, Spain** | **Senior iOS Engineer @ Ocado Technology** | **AI Enthusiast**
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
