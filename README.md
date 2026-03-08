@@ -13,6 +13,7 @@
 ## Current Projects
 
 - **[MacRemote](https://github.com/pedrocid/MacRemote)** - Control your Mac from iOS: trackpad, keyboard, screen sharing, app launcher
+- **[SymphonyMac](https://github.com/pedrocid/SymphonyMac)** - macOS agent orchestrator inspired by OpenAI Symphony - Tauri v2 + React + Rust
 - **[music-mcp](https://github.com/pedrocid/music-mcp)** - Control Apple Music via Model Context Protocol
 - **[tsukuru](https://github.com/pedrocid/tsukuru)** - AI-powered asset generation using DALL-E 3 with MCP
 - **[OllamaMCPServer](https://github.com/pedrocid/OllamaMCPServer)** - Connect Ollama to your AI agents via MCP
